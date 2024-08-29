@@ -3,6 +3,8 @@
 
 use core::panic::PanicInfo;
 
+mod vga_buffer;
+
 static HELLO: &[u8] = b"Hello Casey!! Hi Maple and Mango :D";
 
 #[no_mangle]
