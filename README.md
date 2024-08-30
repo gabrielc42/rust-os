@@ -1,6 +1,6 @@
 [rust-os](https://os.phil-opp.com/freestanding-rust-binary/)
 
-[post 2](https://github.com/phil-opp/blog_os/tree/post-03)
+[post 3](https://github.com/phil-opp/blog_os/tree/post-03)
 
 ` Writing an OS in Rust Philipp Oppermann's blog`
 
