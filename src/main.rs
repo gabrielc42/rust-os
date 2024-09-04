@@ -1,7 +1,9 @@
 #![no_std]
-#![no_main]
 
 use core::panic::PanicInfo;
+
+use std::io;
+use std::io::prelude::*;
 
 mod vga_buffer;
 
@@ -16,6 +18,14 @@ pub extern "C" fn _start() -> ! {
     loop {}
 }
 
+
+
+fn main(){
+    let stdin = io::stdin();
+    for line in stdin.lock().lines() {
+        println!("{}", line.unwrap());
+    }
+}
 
 #[panic_handler]
 fn panic(_info: &PanicInfo) -> ! {
