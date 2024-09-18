@@ -17,3 +17,4 @@
 
 
 - [add WolframAlpha API calls](https://developer.wolframalpha.com/)
+- [cursor](https://wiki.osdev.org/Text_Mode_Cursor#Moving_the_Cursor_2)
