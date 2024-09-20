@@ -15,6 +15,8 @@
 `We learn a lot by writing this bare metal, great practice for Rust. Not using GRUB or the Multiboot standard, amongst other challenges and limitations, allows full understanding about the multitudes of operating systems.`
 
 
+Written and virtualized with [QEMU](https://github.com/qemu/qemu)
+
 - [rigid body physics](https://youtu.be/4r_EvmPKOvY?si=4YVoFSbpKM0QJ_7G)
 - [add WolframAlpha API calls](https://developer.wolframalpha.com/)
 - [cursor](https://wiki.osdev.org/Text_Mode_Cursor#Moving_the_Cursor_2)
