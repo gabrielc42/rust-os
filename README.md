@@ -16,7 +16,3 @@
 
 
 Written and virtualized with [QEMU](https://github.com/qemu/qemu)
-
-- [rigid body physics](https://youtu.be/4r_EvmPKOvY?si=4YVoFSbpKM0QJ_7G)
-- [add WolframAlpha API calls](https://developer.wolframalpha.com/)
-- [cursor](https://wiki.osdev.org/Text_Mode_Cursor#Moving_the_Cursor_2)
