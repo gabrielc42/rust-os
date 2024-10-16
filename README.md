@@ -16,3 +16,5 @@
 
 
 Written and virtualized with [QEMU](https://github.com/qemu/qemu)
+
+Linux-based USB OS bare metal prototype soon
